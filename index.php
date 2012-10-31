@@ -4,8 +4,8 @@
 
     // Cria a instancia da aplicacao, informando o appid e o secret
     $facebook = new Facebook(array(
-      'appId'  => '158736297605561',
-      'secret' => '69e9f6a7c45d523347c4019bfa8902e1',
+      'appId'  => '431761743539156',
+      'secret' => '456e81d9dd157504db2b37945c530b9d',
     ));
 
     // obtem o id do usuario
